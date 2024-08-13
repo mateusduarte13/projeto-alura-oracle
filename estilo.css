@@ -1,0 +1,127 @@
+ 
+
+
+.textarea1 {
+    width: 680px;
+    height: 288px;
+    top: 168px;
+    left: 240px;
+       position:fixed;
+       border:none;
+       resize: none;
+       background-color:transparent;
+       font-size: 32px;
+       font-family: Inter, Arial, sans-serif;
+       
+        
+     
+}
+
+.textarea1::placeholder{ color:#0A3871;
+    line-height: 150%;
+    font-size: 32px;
+    font-family: Inter, Arial, sans-serif;
+    
+        
+}
+ 
+
+.textarea2 {
+    width: 400x;
+    height: 944px;
+    top: 10px;
+    left: 70%;
+    border-radius: 32px;
+    float: right;
+    resize: none;
+    font-family: Inter, Arial, sans-serif;
+    position: fixed;
+    
+    text-align: center;
+    display: grid;
+    place-items: center;
+    word-break: break-word;
+    padding: 170px;
+    box-shadow: .5px .5px 10px rgba(0, 0, 0, .1);
+    box-sizing: border-box;
+    overflow: hidden;
+     
+ background:
+        url(Highqualityproducts.png) no-repeat   top center,
+        url(Frame5.png) no-repeat center; 
+        
+
+
+    }
+
+    .button1 {
+    width: 20rem;
+    height: 4rem;
+    position: relative;
+    margin-top: 500px;  
+    left: 240px;
+    align-items: center;  
+    margin-left: 30px;
+    border-radius: 24px;
+    border:  solid #0A3871;
+    background-color: #0A3871;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    box-shadow: none;
+    gap: 24px;
+    
+}
+
+.button2 {
+    width: 20rem;
+    height: 4rem;
+    position: relative;
+    margin-top: 31,25rem;  
+    left: 15rem;
+    align-items: center;  
+    margin-left: 30px;
+    border-radius: 24px;
+    border: 1px solid #0A3871;
+    display: inline-block;
+    cursor: pointer;
+    background-color: #D8DFE8;
+    color: #0A3871;
+    gap: 24px;
+}
+
+ 
+
+ 
+.textarea2.sem-imagem {
+    background: none;  
+}
+
+ 
+
+.exclamacao{
+
+     
+      text-align: center;
+        position: relative;
+        width: 252px;
+        height: 18px;
+        top: 451px;
+        left: 280px;
+        white-space: nowrap;
+        color: gray;
+
+      
+        
+    
+  }
+
+  .container{position: fixed;}
+
+  .logo{
+    margin-top:40px;
+    margin-left:40px;
+    gap: 40px;
+
+     }
+    
